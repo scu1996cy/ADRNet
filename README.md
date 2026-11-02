@@ -4,15 +4,9 @@ This is the official pytorch implementation of the paper 'Attention-enhanced Dua
 
 ---
 
-## Environment
-
-We implement the code on ```cuda 11.4``` ```python 3.6```, ```pytorch 1.7.1```, ```torchvision 0.8.2```, and ```simpleitk 2.1.1```.
-
----
-
 # Dataset
 
-Experiments are conducted on four publicly brain MRI datasets: [Mindboggle](https://osf.io/nhtur/), [LONI Probabilistic Brain Atlas (LPBA)](https://resource.loni.usc.edu/resources/atlases-downloads/),  [Open Access Series of Imaging Studies (OASIS)](https://sites.wustl.edu/oasisbrains/]), and [IXI](https://brain-development.org/ixi-dataset/).
+Experiments are conducted on four publicly brain MRI datasets: [Mindboggle](https://osf.io/nhtur/), [LONI Probabilistic Brain Atlas (LPBA)](https://resource.loni.usc.edu/resources/atlases-downloads/),  and [Open Access Series of Imaging Studies (OASIS)](https://sites.wustl.edu/oasisbrains/]).
 
 ---
 
